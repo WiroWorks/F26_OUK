@@ -1,7 +1,7 @@
 # F26_OUK
 Oyun ve Uygulama Akademisi App Jam'i için geliştirilmiş mobil uygulama
 
-Uygulamamız Oyun ve Uygulama Akademisi üyelere için bir panel işlevi görmektedir. Öğrenciler anasayfadan adminler tarafından gönderilen eventler
+Uygulamamız Oyun ve Uygulama Akademisi üyeleri için bir panel işlevi görmektedir. Öğrenciler anasayfadan adminler tarafından gönderilen eventler
 ve işe yarar makalelere erişebilecek. Kendileri için notlar tutabilecek. Takvimlerine etkinlik atayıp aynı zamanda adminler tarafından gönderilen etkinlikleri takvim üzerinden takip edebilecek. Adminler ise öğrenciler kolay bir şekilde etkinlik tarihleri ve etkinlik bilgilerini gönderebilir. Aynı zamanda öğrencilerin hesaplarına girdiklerine ekranlarında gözükecek bir pop-up mesajı yaratabilir.
 
 ![image](https://user-images.githubusercontent.com/105015793/230794289-5a78410a-67f2-43f3-b0e2-61de29fd7bff.png)
